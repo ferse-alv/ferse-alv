@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fernando Serrano (@ferse-alv)
 - 👀 I am a computer scientist in his senior year of college. 
 - 🌱 I am working on building my Github and LinkedIn profile to display the skills I have learned.
-- 💞️ I’m looking to collaborate on future oportunities.
+- 💞️ I’m looking to collaborate on future opportunities.
 - 📫 How to reach me: e-mail fernalv78@gmail.com
